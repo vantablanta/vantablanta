@@ -9,4 +9,3 @@ I am a software developer based in Nairobi
 
 ## 👋👋 About Me 
 - At [Moringa School](https://moringaschool.com/)
-
