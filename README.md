@@ -1,11 +1,11 @@
-# 👋👋Hi, I'm Michelle!
+# 🖐 Hi, I'm Michelle!
 I am a software developer based in Nairobi
 
-- Software Developer
+- 👩‍💻 Software Developer
 - 🇰🇪 Kenya
 - 😺 Rafiki
-- 🪴🌷Spiky, Chopstick, Slusheous, Mery, Groot
-- ❤️ Sci-Fi, Swimming, Gardening 
+- 🪴 Spiky, Chopstick, Slusheous, Mery, Groot
+- 😍 Sci-Fi, Swimming, Gardening 
 
-## 👋👋 About Me 
+## 😉 About Me 
 - At [Moringa School](https://moringaschool.com/)
