@@ -9,3 +9,6 @@ I am a software developer based in Nairobi
 
 ## 😉 About Me 
 - At [Moringa School](https://moringaschool.com/)
+
+## 📈 Stats:
+![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=vantablanta)
