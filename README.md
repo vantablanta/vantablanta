@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michelle</h1>
-<h3 align="center">A passionate Full Stack Software Developer from Nairobi</h3>
+<h3 align="center">A passionate Full-Stack Software Developer from Nairobi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vantablanta&label=Profile%20views&color=0e75b6&style=flat" alt="vantablanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vantablanta" alt="vantablanta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vantablanta" target="blank"><img src="https://img.shields.io/twitter/follow/vantablanta?logo=twitter&style=for-the-badge" alt="vantablanta" /></a> </p>
 
 - 🔭 I’m currently working on [Msarendo](https://msarendo.herokuapp.com/)
 
-- 🌱 I’m currently learning **GO, DevOps Principles**
+- 🌱 I’m currently learning **GO and DevOps Principles**
 
 - 👨‍💻 All of my projects are available at [https://michellenjeriw.herokuapp.com/](https://michellenjeriw.herokuapp.com/)
 
-- 💬 Ask me about **MEAN Stack, Django, Flask, Vue, Docker**
+- 💬 Ask me about **MEAN or Stack, Django, Flask, Vue, Docker**
 
 - 📫 How to reach me **vantablanta@gmail.com**
 
