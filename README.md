@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://michellenjeriw.herokuapp.com/](https://michellenjeriw.herokuapp.com/)
 
-- 💬 Ask me about **MEAN or Stack, Django, Flask, Vue, Docker**
+- 💬 Ask me about **MEAN Stack, Django, Flask, Vue, Docker**
 
 - 📫 How to reach me **vantablanta@gmail.com**
 
