@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Msarendo](https://msarendo.herokuapp.com/)
 
-- 🌱 I’m currently learning **GO and DevOps Principles**
+- 🌱 I’m currently learning **C# and DevOps Principles**
 
 - 👨‍💻 All of my projects are available at [https://michellenjeriw.herokuapp.com/](https://michellenjeriw.herokuapp.com/)
 
-- 💬 Ask me about **MEAN Stack, Django, Flask, Vue, Docker**
+- 💬 Ask me about **MEAN, Django, React, Docker**
 
 - 📫 How to reach me **vantablanta@gmail.com**
 
