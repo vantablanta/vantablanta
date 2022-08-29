@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Msarendo](https://msarendo.herokuapp.com/)
 
-- 🌱 I’m currently learning **C# and DevOps Principles**
-
 - 👨‍💻 All of my projects are available at [https://michellenjeriw.herokuapp.com/](https://michellenjeriw.herokuapp.com/)
 
 - 💬 Ask me about **Angular, React, Django**
