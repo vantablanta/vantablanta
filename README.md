@@ -6,9 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://michellenjeriw.herokuapp.com/)
 
-- 💬 Ask me about Angular, React, Django
-
-- 📫 How to reach me [email](mailto:njerimwanjiku@gmail.com)
+- 📫 How to reach me  through [email](mailto:njerimwanjiku@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
